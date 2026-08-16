@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-qsvcx9.idncuan.xyz/sitemap.xml
